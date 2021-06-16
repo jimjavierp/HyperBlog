@@ -4,15 +4,10 @@ body
     text-align: center;
 <<<<<<< HEAD
     font-family: Courier ;
-=======
-    font-family: "Arial";
->>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-=======
 #cabecera
 {
     background: #33A;
@@ -30,27 +25,16 @@ body
     font-size: 0.8em;
 }
 
->>>>>>> cabecera
 
 #container
 {
     width: 70%;
-<<<<<<< HEAD
-    padding: 0;
-=======
     padding: 1em;
->>>>>>> cabecera
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
 
-<<<<<<< HEAD
-#container h1
-{
-    font-size: 20px;
-}
-=======
 
 #container h1
 {
@@ -61,4 +45,3 @@ body
 {
     padding: 1em;
 }
->>>>>>> cabecera
